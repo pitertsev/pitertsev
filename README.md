@@ -1,6 +1,7 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Ivan Pitertsev
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+
 I am a frontend developer with a unique combination of marketing experience and strong soft skills. I strive for continuous growth and I am ready to take on any challenges to become a valuable member of your team. Let's create amazing web applications together that will attract and engage users!
 
 ---
